@@ -1,0 +1,11 @@
+#Wavelength as a parameter measured in nm
+
+#Voltage measured in (V), diameter measured in (cm)
+
+#! voltage[f,0]/ diameter[f,1]/
+1500    7.192
+2000    5.519
+2260    5.305
+2500    3.049
+3000    4.598
+3500    4.528
