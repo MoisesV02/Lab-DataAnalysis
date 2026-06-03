@@ -1,0 +1,8 @@
+#/angleOptical = 198.017
+#/AngleO = 161.017
+
+#! DegreeFirstOrder [f,0]/ ArcMinuteFirstOrder[f,1]/ DegreeSecondOrder [f,2]/ ArcMinuteSecondOrder[f,3]/
+115 25  84.5 15
+111 6   77  6
+117 15  80.5 20
+99  1   54  15
